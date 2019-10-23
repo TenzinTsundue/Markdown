@@ -22,3 +22,11 @@ link: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 | Headers 	| \#, \##, \###, \####, \#####, \###### (from h1 to h6) 	|  <h3>This is a h3 header</h3>	|
 | Strike through 	| \~~Insert text here\~~ 	| ~~I am dead~~ 	|
 | Tables 	| \| Tables   \|      Are      \|  Cool \| \|\----------\|\:\-------------\:\|------\:\| \| col 1 is\|  left-aligned \| $1600 \| | ![](http://i.imgur.com/EItt7mh.png) |
+
+#### Task list
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+:skull:
