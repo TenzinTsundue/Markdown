@@ -29,4 +29,7 @@ link: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
+#### Emoji
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+//:skull:
 :skull:
